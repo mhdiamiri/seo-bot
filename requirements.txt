@@ -1,0 +1,6 @@
+pandas
+xlrd
+requests
+socks
+stem
+selenium
